@@ -8,7 +8,7 @@
 
 ## Installation
 Currently pwntools is in *beta* if you want to install it you can use go-get
-`go get -u github.com/gopwn/pwn`
+`go get -u github.com/CometWei/pwn`
 
 ## Contributing
 1. Fork it (<https://github.com/gopwn/pwn/fork>)
